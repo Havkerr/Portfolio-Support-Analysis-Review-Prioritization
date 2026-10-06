@@ -1,0 +1,21 @@
+client_id,client_name,relationship_manager,risk_profile,investment_objective
+C001,Aarav Mehta,Ananya Kulkarni,Moderate,Balanced Growth
+C002,Ishita Rao,Rohit Deshmukh,Aggressive,Long-term Growth
+C003,Kabir Sethi,Meera Iyer,Conservative,Capital Preservation
+C004,Nandini Joshi,Farhan Qureshi,Aggressive,Wealth Accumulation
+C005,Vikram Bhatia,Ananya Kulkarni,Conservative,Income Generation
+C006,Priya Nair,Rohit Deshmukh,Moderate,Balanced Growth
+C007,Siddharth Kapoor,Meera Iyer,Moderate,Income Generation
+C008,Aditi Menon,Farhan Qureshi,Moderate,Balanced Growth
+C009,Rahul Chawla,Ananya Kulkarni,Aggressive,Long-term Growth
+C010,Tanvi Gokhale,Rohit Deshmukh,Aggressive,Wealth Accumulation
+C011,Arjun Pillai,Meera Iyer,Conservative,Capital Preservation
+C012,Kavya Reddy,Farhan Qureshi,Aggressive,Long-term Growth
+C013,Manish Agarwal,Ananya Kulkarni,Conservative,Income Generation
+C014,Sneha Banerjee,Rohit Deshmukh,Moderate,Balanced Growth
+C015,Harsh Vardhan Shah,Meera Iyer,Aggressive,Long-term Growth
+C016,Pooja Deshpande,Farhan Qureshi,Moderate,Wealth Accumulation
+C017,Nikhil Saxena,Ananya Kulkarni,Moderate,Balanced Growth
+C018,Ritu Malhotra,Rohit Deshmukh,Conservative,Capital Preservation
+C019,Devansh Khanna,Meera Iyer,Moderate,Balanced Growth
+C020,Zara Sheikh,Farhan Qureshi,Aggressive,Wealth Accumulation
